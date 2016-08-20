@@ -3,7 +3,3 @@
 
 # Binary
 out/
-
-# Lesson Notes
-src/notes.kt
-src/tests.kt
