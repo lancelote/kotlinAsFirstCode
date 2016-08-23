@@ -6,7 +6,7 @@ Code for [Kotlin as first language][1] tutorial
 
  - [x] [Простые функции](src/lesson1)
  - [x] [Ветвления](src/lesson2)
- - [ ] Циклы
+ - [ ] [Циклы](src/lesson3)
  - [ ] Работа со списками
  - [ ] Разбор строк
  - [ ] Простые классы
