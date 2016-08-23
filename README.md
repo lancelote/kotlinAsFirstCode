@@ -5,7 +5,7 @@ Code for [Kotlin as first language][1] tutorial
 ## Table of Content
 
  - [x] [Простые функции](src/lesson1)
- - [ ] [Ветвления](src/lesson2)
+ - [x] [Ветвления](src/lesson2)
  - [ ] Циклы
  - [ ] Работа со списками
  - [ ] Разбор строк
